@@ -1,2 +1,2 @@
-# stoicism-website-
+# stoicism-website
 Vibe coded website 
